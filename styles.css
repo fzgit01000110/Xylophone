@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+body {
+  background-color: #f1f1f1;
+}
+
+h1 {
+  color: #A12568;
+  font-family: 'Josefin Sans', sans-serif;
+  text-shadow: 3px 0 #FEC260;
+}
+
+.pressed {
+  filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+  opacity: 0.7;
+}
+
+.xylophone{
+text-decoration: none;
+}
+
+.img-1{
+  transform: scale(1);
+}
+.img-2{
+  transform: scale(0.95);
+}
+.img-3{
+  transform: scale(0.9);
+}
+.img-4{
+  transform: scale(0.85);
+}
+.img-5{
+  transform: scale(0.8);
+}
+.img-6{
+  transform: scale(0.75);
+}
+.img-7{
+  transform: scale(0.7);
+}
+.img-8{
+  transform: scale(0.65);
+}
+.img-9{
+  transform: scale(0.6);
+}
+.img-0{
+  transform: scale(0.55);
+}
+
+.numbers{
+  color: #FEC260;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+footer {
+  color: #A12568;
+  font-family: 'Josefin Sans', sans-serif;
+}
